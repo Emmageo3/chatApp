@@ -34,10 +34,15 @@ input{
     background-color: #eedfdf;
 }
 
-h5{
-    text-align: center;
+a{
+    text-decoration: none;
+    color: black;
     opacity: 50%;
+    font-size: 1.3rem;
+    text-align: center;
 }
+
+
 .bouton{
     padding: 12px; border-radius: 30px; border: none; background-color: #ce0033; color: #fff;
 }
