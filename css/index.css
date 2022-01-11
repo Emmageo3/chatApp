@@ -10,5 +10,17 @@ main{
 }
 
 .gauche{
-    border-right: 1px solid rgb(206, 201, 201);
+    border-right: 1px solid rgba(206, 201, 201, 0.541);
+}
+
+.droite{
+    border-left: 1px solid rgb(206, 201, 201);
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.droite .online{
+    background-color: rgba(238, 230, 230, 0.562);
+    border-radius: 10px;
+    text-align: center;
 }
