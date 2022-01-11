@@ -24,3 +24,7 @@ main{
     border-radius: 10px;
     text-align: center;
 }
+
+.gauche h4{
+    font-weight: 300;
+}
