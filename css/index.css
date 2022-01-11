@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main{
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
+
+.gauche{
+    border-right: 1px solid rgb(206, 201, 201);
+}
