@@ -187,8 +187,8 @@ input {
 
 .side-element {
   background: #ce0033;
-  background: -webkit-linear-gradient(to right, #ce0033, #FFF);
-  background: linear-gradient(to right, #ce0033, #FFF);
+  background: -webkit-linear-gradient(to right, #ce0033, #ce00349a);
+  background: linear-gradient(to right, #ce0033, #ce00349a);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 0 0;
